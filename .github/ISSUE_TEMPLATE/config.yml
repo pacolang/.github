@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Propose a design change (RFC)
+    url: https://github.com/pacolang/rfcs
+    about: Language or ecosystem design changes go through an RFC, not an issue.
